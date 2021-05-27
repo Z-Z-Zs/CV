@@ -1,0 +1,12 @@
+body {
+  background-color:gainsboro;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width:5%;
+}
